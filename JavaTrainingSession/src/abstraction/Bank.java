@@ -12,7 +12,7 @@ public abstract class Bank {
 	
 	public void debit()
 	{
-		System.out.println("debit");
+		System.out.println("debit card");
 	}
 	
 	Bank()
