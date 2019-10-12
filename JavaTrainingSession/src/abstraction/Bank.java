@@ -7,12 +7,14 @@ public abstract class Bank {
 	
 	public void credit()
 	{
-		System.out.println("credit");
+		System.out.println("credit card");
 	}
 	
 	public void debit()
 	{
 		System.out.println("debit card");
+		
+		
 	}
 	
 	Bank()
