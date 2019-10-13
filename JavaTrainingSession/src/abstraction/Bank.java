@@ -14,6 +14,8 @@ public abstract class Bank {
 	{
 		System.out.println("debit card");
 		
+		System.out.println("debit card1");
+		
 		
 	}
 	
